@@ -1,0 +1,37 @@
+[
+    {
+        "id": "c55fbb2c-bb39-430a-afb1-157abe267c96",
+        "nombre": "Dragon Ball",
+        "genero": "Shonen",
+        "anio": "1986",
+        "autor": "Akira Toriyama"
+    },
+    {
+        "id": "ca5e744f-321e-4bb7-9f77-053182ee61d9",
+        "nombre": "Sailor Moon",
+        "genero": "Shojo",
+        "anio": "1992",
+        "autor": "Naoko Takeuchi"
+    },
+    {
+        "id": "1ed5769c-d3ca-4220-9d73-7c932909f729",
+        "nombre": "Naruto",
+        "genero": "Shonen",
+        "anio": "2002",
+        "autor": "Masashi Kishimoto"
+    },
+    {
+        "id": "291f0e56-ff78-4383-9261-77e3daf18714",
+        "nombre": "Neon Genesis Evangelion",
+        "genero": "Mecha",
+        "anio": "1995",
+        "autor": "Yoshiyuki Sadamoto"
+    },
+    {
+        "id": "f8bc4312-1b7b-458b-9579-3cf693631058",
+        "nombre": "Akira",
+        "genero": "Seinen",
+        "anio": "1988",
+        "autor": "Katsuhiro Otomo"
+    }
+]
